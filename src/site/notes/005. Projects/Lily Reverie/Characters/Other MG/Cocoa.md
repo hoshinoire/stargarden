@@ -1,5 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Cocoa.md","permalink":"/lily-reverie/characters/other-mg/cocoa/","created":"2024-01-18T18:11:12.636-03:00","updated":"2024-01-18T18:11:15.966-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Cocoa.md","permalink":"/lily-reverie/characters/other-mg/cocoa/","created":"2024-01-18T18:11:12.636-03:00","updated":"2024-01-20T03:29:25.383-03:00"}
+---
+
+>[!error] Warning
+>This is probably somewhat outdated!
+
 ---
 
 **Cocoa - werewolf girl [painted wolf/African wild dog]** (kinda outdated and also incomplete)
