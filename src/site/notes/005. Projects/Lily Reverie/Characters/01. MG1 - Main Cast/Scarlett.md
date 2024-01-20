@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/scarlett/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T03:24:41.524-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/scarlett/","created":"2024-01-20T03:24:41.523-03:00","updated":"2024-01-20T04:51:48.461-03:00"}
 ---
 
 >[!error] Warning
@@ -16,3 +16,7 @@ Nearly no one truly knows how the real Scarlett is, with [[005. Projects/Lily Re
 Even though she puts up such a social persona and doesn’t exactly have problems with anxiety per se, she’s actually very uncomfortable around most people, even more so socializing, but she tries her best to not let her discomfort be noticeable. Still has trouble approaching others, because as much as she manages to force herself to seem social, her discomfort still wins over impersonation skills sometimes. Also finds most socialization very tiresome. Perhaps as a consequence of the way she chose to live, she has an absolutely hard time understanding her own feelings and rarely does. Gets embarrassed and awkward expressing her genuine feelings, too: being affectionate to strangers as an act is fine, but being affectionate to someone she truly cares for is embarrassing as fuck. Deep down she is just an extremely awkward and actually introverted girl that managed to create a persona and act well. Not really that different from Azure internally.
 
 Fantasizes about yuri in her own mind and doesn’t pay attention to her own surroundings at all. Sometimes reads yuri manga but covers it up to seem like she is reading some Student Council document, and to this day nobody has ever figured it out. Wants to fall in love someday.
+
+---
+
+[[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Lalin\|Lalin]]
