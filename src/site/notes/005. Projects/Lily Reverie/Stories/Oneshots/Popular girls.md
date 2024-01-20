@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Popular girls.md","permalink":"/lily-reverie/stories/oneshots/popular-girls/","created":"2024-01-20T03:03:36.928-03:00","updated":"2024-01-20T03:57:27.795-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Popular girls.md","permalink":"/lily-reverie/stories/oneshots/popular-girls/","created":"2024-01-20T03:03:36.928-03:00","updated":"2024-01-20T04:29:30.333-03:00"}
 ---
 
 >[!error] Warning
@@ -8,8 +8,8 @@
 >[!note] Draft
 >This was probably either written in more of an experimental way or just as a draft.
 
-Featured characters: Byakko, Eleanor, Violet
-Characters mentioned by name: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Aya\|Aya]], Dahlia, Daryl, [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Juniper\|Juniper]], Thana
+Featured characters: [[005. Projects/Lily Reverie/Characters/Other MG/Byakko\|Byakko]], [[005. Projects/Lily Reverie/Characters/Other MG/Eleanor\|Eleanor]], [[005. Projects/Lily Reverie/Characters/Other MG/Violet\|Violet]]
+Characters mentioned by name: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Aya\|Aya]], [[005. Projects/Lily Reverie/Characters/02. MG2/Dahlia\|Dahlia]], [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|Daryl]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Juniper\|Juniper]], [[005. Projects/Lily Reverie/Characters/02. MG2/Thana\|Thana]]
 
 ---
 
