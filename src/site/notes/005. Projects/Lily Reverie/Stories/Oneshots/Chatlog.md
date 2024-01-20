@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Chatlog.md","permalink":"/lily-reverie/stories/oneshots/chatlog/","created":"2024-01-20T03:03:36.928-03:00","updated":"2024-01-20T03:50:25.256-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Chatlog.md","permalink":"/lily-reverie/stories/oneshots/chatlog/","created":"2024-01-20T03:03:36.928-03:00","updated":"2024-01-20T03:57:41.067-03:00"}
 ---
 
-Characters featured: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Akatai\|Mae]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Ori]]
+Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Akatai\|Mae]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Ori]]
 
 ---
 
