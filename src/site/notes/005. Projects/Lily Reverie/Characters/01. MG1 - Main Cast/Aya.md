@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Aya.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/aya/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T03:25:30.277-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Aya.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/aya/","created":"2024-01-20T03:25:30.276-03:00","updated":"2024-01-20T04:49:35.001-03:00"}
 ---
 
 >[!error] Warning
@@ -18,3 +18,7 @@ The kind of girl that when clearly in love would act more or less like a dereder
 Her grades are… Sometimes good, sometimes shit. She sometimes relies on tarot or other occultic things saying it’ll help her discover what are the answers of the test. Sometimes it works, sometimes it doesn’t. Has started to ask for help studying though because her situation sometimes borders on worrisome.
 
 No one knows how the fuck did she lose her left eye. Actually, no one even knows if she really lost it to begin with. Doesn’t fly and refuses to answer why. Takes a lot of booze to manage to get her drunk, and when she gets drunk she turns into a rational, calm, down-to-earth person AKA she is more sober then than when she is actually sober.
+
+---
+
+[[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Juniper\|Juniper]]
