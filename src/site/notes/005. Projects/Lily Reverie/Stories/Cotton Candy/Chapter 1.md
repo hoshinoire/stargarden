@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 1.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-1/","created":"2024-01-20T02:02:14.615-03:00","updated":"2024-01-20T03:33:27.015-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 1.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-1/","created":"2024-01-20T02:02:14.615-03:00","updated":"2024-01-20T04:26:47.051-03:00"}
 ---
 
 Written May 30, 2018
 10 minutes read
+
+Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Lana\|Lana]], [[005. Projects/Lily Reverie/Characters/02. MG2/Thana\|Thana]]
 
 Chapter 1 >> [[005. Projects/Lily Reverie/Stories/Cotton Candy/Chapter 2\|Chapter 2]]
 
