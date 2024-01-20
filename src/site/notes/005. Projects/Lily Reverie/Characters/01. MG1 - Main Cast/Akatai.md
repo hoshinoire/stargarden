@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Akatai.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/akatai/","created":"2024-01-20T03:25:25.855-03:00","updated":"2024-01-20T04:50:39.105-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Akatai.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/akatai/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T03:25:25.856-03:00"}
 ---
 
 >[!error] Warning
