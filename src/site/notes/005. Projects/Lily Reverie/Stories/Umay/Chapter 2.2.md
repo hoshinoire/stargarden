@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 2.2.md","permalink":"/lily-reverie/stories/umay/chapter-2-2/","created":"2024-01-20T02:03:27.592-03:00","updated":"2024-01-20T04:21:37.789-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 2.2.md","permalink":"/lily-reverie/stories/umay/chapter-2-2/","created":"2024-01-20T02:03:27.592-03:00","updated":"2024-01-20T04:24:25.832-03:00"}
 ---
 
 Written May 6, 2019
 4 minutes read
 
-Featured characters: Daryl, Konin
+Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|Daryl]], [[005. Projects/Lily Reverie/Characters/02. MG2/Konin\|Konin]]
 
 [[005. Projects/Lily Reverie/Stories/Umay/Chapter 2\|Chapter 2]] << Chapter 2.2 >> [[005. Projects/Lily Reverie/Stories/Umay/Chapter 3\|Chapter 3]]
 
