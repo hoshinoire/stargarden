@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Excerpts/Shizue excerpt 2.md","permalink":"/lily-reverie/stories/excerpts/shizue-excerpt-2/","created":"2024-01-20T04:42:43.261-03:00","updated":"2024-01-20T04:42:43.261-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Excerpts/Shizue excerpt 2.md","permalink":"/lily-reverie/stories/excerpts/shizue-excerpt-2/","created":"2023-06-29T02:58:24.206-03:00","updated":"2024-01-20T04:42:43.262-03:00"}
 ---
 
 
