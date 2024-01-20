@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Azure.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/azure/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T03:25:35.389-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Azure.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/azure/","created":"2024-01-20T03:25:35.389-03:00","updated":"2024-01-20T04:49:46.789-03:00"}
 ---
 
 >[!error] Warning
@@ -18,3 +18,7 @@ Actually a pretty tranquil and chill friend once you get past her shyness, which
 Her grades are the result of both studying a lot and of learning things more or less easily. She finds the content taught at the Academy genuinely interesting, too, so it’s not like it’s a chore for her to study. Also factors in heavily the fact she loves seeing that she got the top1 spot and ego-tripping with it. Might be the strongest motivation of hers, even.
 
 Hates being called a killer whale. More specifically, the “killer” part is okay and kind of pretty cool in her opinion, but the whale part is plainly wrong and stupid according to her because orcas aren’t whales! They’re more closely related to dolphins, after all. She is self-conscious about the fact she has a fucking blowhole.
+
+---
+
+[[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
