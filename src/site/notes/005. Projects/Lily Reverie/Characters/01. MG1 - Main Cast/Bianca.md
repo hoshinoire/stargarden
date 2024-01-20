@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Bianca.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/bianca/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T03:25:39.623-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Bianca.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/bianca/","created":"2024-01-20T03:25:39.622-03:00","updated":"2024-01-20T04:49:05.241-03:00"}
 ---
 
 >[!error] Warning
@@ -16,3 +16,6 @@ Since she is very into games AND is homophobic, you can say she is a true gamer�
 Absolutely short, her species should be minuscule but fairy nobility has different biology from regular fairies so she is just small (around 147cm).
 
 Already called [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Juniper\|Junie]] “mom” by mistake once. Also addicted to energy drinks.
+
+---
+[[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Aya\|Aya]]
