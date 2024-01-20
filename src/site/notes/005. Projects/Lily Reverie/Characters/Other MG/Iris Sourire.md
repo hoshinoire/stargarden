@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Iris Sourire.md","permalink":"/lily-reverie/characters/other-mg/iris-sourire/","created":"2024-01-18T18:11:12.618-03:00","updated":"2024-01-18T18:11:15.979-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Iris Sourire.md","permalink":"/lily-reverie/characters/other-mg/iris-sourire/","created":"2024-01-18T18:11:12.618-03:00","updated":"2024-01-20T03:38:45.907-03:00"}
 ---
 
 **Iris Sourire** - kitsune
 
 * Not her real name; real name is ???
-* Akatai's (much) older sister, although physically you can't notice the gap in age that much
+* [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Akatai\|Akatai]]'s (much) older sister, although physically you can't notice the gap in age that much
 * Much to Akatai's chagrin, really loves her little sister and is very touchy, not to mention clingy
 * The favorite child of her parents, something they don't even try to hide by giving her a much fatter allowance than Akatai's
 * Either has an incredible makeup game or an incredible babyface, seeming way younger than she is even for kitsune standards
