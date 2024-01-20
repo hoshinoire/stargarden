@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Minerva.md","permalink":"/lily-reverie/characters/other-mg/minerva/","created":"2024-01-20T04:34:20.765-03:00","updated":"2024-01-20T04:45:50.349-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Minerva.md","permalink":"/lily-reverie/characters/other-mg/minerva/","created":"2024-01-20T04:29:43.858-03:00","updated":"2024-01-20T04:45:50.350-03:00"}
 ---
 
 
