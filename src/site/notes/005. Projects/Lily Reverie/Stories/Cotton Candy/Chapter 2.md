@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 2.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-2/","created":"2024-01-20T02:02:34.943-03:00","updated":"2024-01-20T03:36:58.252-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 2.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-2/","created":"2024-01-20T02:02:34.943-03:00","updated":"2024-01-20T04:26:31.771-03:00"}
 ---
 
 Written November 8, 2018
 3 minutes read
+
+Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Medea\|Medea]], [[005. Projects/Lily Reverie/Characters/02. MG2/Thana\|Thana]]
+Characters mentioned by named: [[005. Projects/Lily Reverie/Characters/02. MG2/Dahlia\|Dahlia]], [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|Daryl]]
 
 [[005. Projects/Lily Reverie/Stories/Cotton Candy/Chapter 1\|Chapter 1]] << Chapter 2 >> [[005. Projects/Lily Reverie/Stories/Cotton Candy/Chapter 3\|Chapter 3]]
 
@@ -80,8 +83,8 @@ _Oh. Maybe… Oh Mag, if I’m right…_
 
 “HUH?! O-of course not… Are you crazy, Medea?” Thana immediately denied it and blushed profusely.
 
-_OH NO OH NO OH NO OH NO OH NO.  
-__AHAHAHAHAHAHAHAHAHHAHAHAHA._
+*OH NO OH NO OH NO OH NO OH NO.*  
+*AHAHAHAHAHAHAHAHAHHAHAHAHA.*
 
 “Probably, but I’m pretty I’m less crazy than you.” She answered, holding in her urge to laugh. “Really, Thana? You are after a teacher AGAIN? You’re fucking kidding me, right?”
 
