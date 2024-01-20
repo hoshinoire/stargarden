@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Juniper.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/juniper/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T03:25:43.124-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Juniper.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/juniper/","created":"2024-01-20T03:25:43.124-03:00","updated":"2024-01-20T04:50:06.445-03:00"}
 ---
 
 >[!error] Warning
@@ -16,3 +16,6 @@ Surprisingly not as emotional as you’d expect and even stays calm and level-he
 She’s childhood friends with [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Akatai\|Akatai]] and thanks to Akatai’s influence she’s far from being a complete normie even if she seems like one, which is probably the reason Akatai is still her friend [other than her loyalty]. Understands Akatai needs her own alone time and knows better than to bother her, leaving her to do her things when she wants to and hanging out whenever Akatai is in the mood. Actually was the one who got Akatai into running originally, always insisting Akatai is way too sedentary and lazy so it’d be good for her to try doing a physical activity. Got some of her sense of humor from Akatai.
 
 Some girls wonder how much of her playful flirting is just a joke and if some of it isn’t actual, serious flirting. Those girls are usually part of her fanbase though, so take it with a grain of salt, it might be just wishful thinking of theirs.
+
+---
+[[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Akatai\|Akatai]]
