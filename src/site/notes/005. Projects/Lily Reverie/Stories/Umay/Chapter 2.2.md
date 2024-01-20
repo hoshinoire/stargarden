@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 2.2.md","permalink":"/lily-reverie/stories/umay/chapter-2-2/","created":"2024-01-20T02:03:27.592-03:00","updated":"2024-01-20T04:24:25.832-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 2.2.md","permalink":"/lily-reverie/stories/umay/chapter-2-2/","created":"2024-01-20T04:24:25.831-03:00","updated":"2024-01-20T04:24:25.831-03:00"}
 ---
 
 Written May 6, 2019
