@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-projects/lily-reverie/characters/other-mg/iris-sourire/","created":"2024-01-18T13:37:10.038-03:00","updated":"2024-01-18T13:37:58.442-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Iris Sourire.md","permalink":"/lily-reverie/characters/other-mg/iris-sourire/","created":"2024-01-18T18:11:12.618-03:00","updated":"2024-01-18T18:11:15.979-03:00"}
 ---
 
 **Iris Sourire** - kitsune
