@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Lobostil/Cocoa.md","permalink":"/lily-reverie/characters/lobostil/cocoa/","created":"2024-01-20T03:39:09.046-03:00","updated":"2024-01-20T04:48:02.633-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Lobostil/Cocoa.md","permalink":"/lily-reverie/characters/lobostil/cocoa/","created":"2024-01-20T04:36:41.255-03:00","updated":"2024-01-20T04:48:02.634-03:00"}
 ---
 
 >[!error] Warning
