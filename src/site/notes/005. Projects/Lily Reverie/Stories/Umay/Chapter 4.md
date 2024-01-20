@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 4.md","permalink":"/lily-reverie/stories/umay/chapter-4/","created":"2024-01-20T02:03:27.592-03:00","updated":"2024-01-20T04:19:06.311-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 4.md","permalink":"/lily-reverie/stories/umay/chapter-4/","created":"2024-01-20T02:03:27.592-03:00","updated":"2024-01-20T04:24:43.250-03:00"}
 ---
 
 Written July 2, 2019
 
-Characters featured: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], Daryl, [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
+Characters featured: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|Daryl]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
 Characters mentioned by name: [[005. Projects/Lily Reverie/Characters/02. MG2/Konin\|Konin]]
 
 [[005. Projects/Lily Reverie/Stories/Umay/Chapter 3\|Chapter 3]] << Chapter 4 >> [[005. Projects/Lily Reverie/Stories/Umay/Chapter 5\|Chapter 5]]
