@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-projects/lily-reverie/stories/oneshots/scarlett-short-story-1/","created":"2023-06-29T02:57:28.712-03:00","updated":"2024-01-18T21:36:10.422-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Scarlett short story 1.md","permalink":"/lily-reverie/stories/oneshots/scarlett-short-story-1/","created":"2023-06-29T02:57:28.712-03:00","updated":"2024-01-18T21:36:10.422-03:00"}
 ---
 
 *Written 23 Jan 2022.*
