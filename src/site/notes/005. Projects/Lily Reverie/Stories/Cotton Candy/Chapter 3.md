@@ -1,9 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 3.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-3/","created":"2024-01-20T02:02:34.943-03:00","updated":"2024-01-20T03:36:42.817-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 3.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-3/","created":"2024-01-20T02:02:34.943-03:00","updated":"2024-01-20T04:27:24.034-03:00"}
 ---
 
 Written November 8, 2018
 4 minutes read
+
+Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Dahlia\|Dahlia]], [[005. Projects/Lily Reverie/Characters/02. MG2/Medea\|Medea]], [[005. Projects/Lily Reverie/Characters/02. MG2/Thana\|Thana]]
+Characters mentioned by named: [[005. Projects/Lily Reverie/Characters/02. MG2/Lana\|Lana]]
 
 [[005. Projects/Lily Reverie/Stories/Cotton Candy/Chapter 2\|Chapter 2]] << Chapter 3 >>  Chapter 4
 
