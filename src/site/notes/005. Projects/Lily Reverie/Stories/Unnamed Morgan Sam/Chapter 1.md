@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Unnamed Morgan Sam/Chapter 1.md","permalink":"/lily-reverie/stories/unnamed-morgan-sam/chapter-1/","created":"2024-01-20T02:07:19.834-03:00","updated":"2024-01-20T04:41:48.748-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Unnamed Morgan Sam/Chapter 1.md","permalink":"/lily-reverie/stories/unnamed-morgan-sam/chapter-1/","created":"2024-01-20T04:41:48.747-03:00","updated":"2024-01-20T04:41:48.747-03:00"}
 ---
 
 
