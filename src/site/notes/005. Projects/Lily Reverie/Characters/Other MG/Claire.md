@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/005-projects/lily-reverie/characters/other-mg/claire/","created":"2024-01-17T19:39:25.329-03:00","updated":"2024-01-18T13:40:49.642-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Claire.md","permalink":"/lily-reverie/characters/other-mg/claire/","created":"2024-01-18T18:11:12.605-03:00","updated":"2024-01-18T18:11:15.975-03:00"}
 ---
 
 **Claire - vampire**
