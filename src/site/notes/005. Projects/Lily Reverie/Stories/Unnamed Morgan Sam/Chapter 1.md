@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Unnamed Morgan Sam/Chapter 1.md","permalink":"/lily-reverie/stories/unnamed-morgan-sam/chapter-1/","created":"2024-01-20T02:07:19.834-03:00","updated":"2024-01-20T04:04:16.261-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Unnamed Morgan Sam/Chapter 1.md","permalink":"/lily-reverie/stories/unnamed-morgan-sam/chapter-1/","created":"2024-01-20T02:07:19.834-03:00","updated":"2024-01-20T04:41:48.748-03:00"}
 ---
+
 
 Written 6 Jun 2023  
 
-Featured characters: Morgan, Samantha
+Featured characters: [[005. Projects/Lily Reverie/Characters/IRL/Morgan\|Morgan]], [[005. Projects/Lily Reverie/Characters/IRL/Samantha\|Samantha]]
 
 Chapter 1 >> Chapter 2
 
