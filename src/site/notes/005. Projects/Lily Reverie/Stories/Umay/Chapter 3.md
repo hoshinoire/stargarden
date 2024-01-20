@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 3.md","permalink":"/lily-reverie/stories/umay/chapter-3/","created":"2024-01-20T02:03:27.592-03:00","updated":"2024-01-20T04:21:33.137-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 3.md","permalink":"/lily-reverie/stories/umay/chapter-3/","created":"2024-01-20T02:03:27.592-03:00","updated":"2024-01-20T04:24:31.069-03:00"}
 ---
 
 Written May 10, 2019
 5 minutes read
 
-Featured characters: Daryl
-Characters mentioned: Konin, [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
+Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|Daryl]]
+Characters mentioned: [[005. Projects/Lily Reverie/Characters/02. MG2/Konin\|Konin]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
 
 [[005. Projects/Lily Reverie/Stories/Umay/Chapter 2.2\|Chapter 2.2]] << Chapter 3 >> [[005. Projects/Lily Reverie/Stories/Umay/Chapter 4\|Chapter 4]]
 
