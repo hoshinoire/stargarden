@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Haze.md","permalink":"/lily-reverie/stories/oneshots/haze/","created":"2024-01-20T04:28:36.578-03:00","updated":"2024-01-20T04:28:36.578-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Haze.md","permalink":"/lily-reverie/stories/oneshots/haze/","created":"2024-01-20T03:02:34.645-03:00","updated":"2024-01-20T04:28:36.578-03:00"}
 ---
 
 Featured character: [[005. Projects/Lily Reverie/Characters/IRL/Alys\|Alys]]
