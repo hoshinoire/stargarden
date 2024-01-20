@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Morgan.md","permalink":"/lily-reverie/characters/irl/morgan/","created":"2024-01-20T04:39:31.596-03:00","updated":"2024-01-20T04:39:51.845-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Morgan.md","permalink":"/lily-reverie/characters/irl/morgan/","created":"2024-01-20T04:39:51.845-03:00","updated":"2024-01-20T04:56:32.493-03:00"}
 ---
 
 
 >[!info] Pending
 >Content pending, for a reason or another.
 
+[[005. Projects/Lily Reverie/Characters/IRL/Meredith\|Meredith]]
+[[005. Projects/Lily Reverie/Characters/IRL/Samantha\|Samantha]]
