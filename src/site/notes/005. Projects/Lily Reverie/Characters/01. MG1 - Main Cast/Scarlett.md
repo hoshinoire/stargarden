@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/scarlett/","created":"2024-01-20T03:24:41.523-03:00","updated":"2024-01-20T04:51:48.461-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/scarlett/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T04:51:48.462-03:00"}
 ---
 
 >[!error] Warning
