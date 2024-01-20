@@ -1,9 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Chatlog.md","permalink":"/lily-reverie/stories/oneshots/chatlog/","created":"2024-01-20T03:03:36.928-03:00","updated":"2024-01-20T03:57:41.067-03:00"}
----
-
-Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Akatai\|Mae]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Ori]]
-
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Chatlog.md","permalink":"/lily-reverie/stories/oneshots/chatlog/","created":"2024-01-20T03:03:36.928-03:00","updated":"2024-01-20T04:28:06.403-03:00"}
 ---
 
 Ori: Hey, Mae
@@ -283,3 +279,7 @@ Ori: Okay
 Ori: See you
 
 Mae: see ya
+
+---
+
+Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Akatai\|Mae]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Ori]]
