@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Hilda.md","permalink":"/lily-reverie/characters/rpg/hilda/","created":"2023-06-29T02:57:15.670-03:00","updated":"2024-01-20T05:00:06.638-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Hilda.md","permalink":"/lily-reverie/characters/rpg/hilda/","created":"2023-06-29T02:57:15.670-03:00","updated":"2024-01-21T01:41:25.268-03:00"}
 ---
 
 
