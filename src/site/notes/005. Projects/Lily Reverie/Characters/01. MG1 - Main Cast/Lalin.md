@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Lalin.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/lalin/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T04:50:27.870-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Lalin.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/lalin/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-21T01:41:30.099-03:00"}
 ---
 
 >[!error] Warning
