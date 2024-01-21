@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Unnamed (2).md","permalink":"/lily-reverie/stories/oneshots/unnamed-2/","created":"2024-01-20T03:03:13.427-03:00","updated":"2024-01-20T04:30:11.243-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Unnamed (2).md","permalink":"/lily-reverie/stories/oneshots/unnamed-2/","created":"2024-01-20T03:03:13.427-03:00","updated":"2024-01-21T01:41:22.830-03:00"}
 ---
 
 Featured characters: [[005. Projects/Lily Reverie/Characters/Other MG/Ciara\|Ciara]], [[005. Projects/Lily Reverie/Characters/Other MG/Minerva\|Minerva]]
