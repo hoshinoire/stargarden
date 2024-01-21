@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/02. MG2/Medea.md","permalink":"/lily-reverie/characters/02-mg-2/medea/","created":"2024-01-20T03:12:51.328-03:00","updated":"2024-01-20T04:53:14.182-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/02. MG2/Medea.md","permalink":"/lily-reverie/characters/02-mg-2/medea/","created":"2024-01-20T03:12:51.328-03:00","updated":"2024-01-21T01:41:28.016-03:00"}
 ---
 
 
