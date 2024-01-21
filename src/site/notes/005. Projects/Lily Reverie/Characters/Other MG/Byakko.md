@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Byakko.md","permalink":"/lily-reverie/characters/other-mg/byakko/","created":"2024-01-20T04:29:03.774-03:00","updated":"2024-01-20T04:34:03.786-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Other MG/Byakko.md","permalink":"/lily-reverie/characters/other-mg/byakko/","created":"2024-01-20T04:29:03.774-03:00","updated":"2024-01-21T01:41:26.758-03:00"}
 ---
 
 
