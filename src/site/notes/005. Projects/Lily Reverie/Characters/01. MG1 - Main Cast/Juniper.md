@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Juniper.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/juniper/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-20T04:50:06.446-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/01. MG1 - Main Cast/Juniper.md","permalink":"/lily-reverie/characters/01-mg-1-main-cast/juniper/","created":"2024-01-20T03:06:50.397-03:00","updated":"2024-01-21T01:41:29.930-03:00"}
 ---
 
 >[!error] Warning
