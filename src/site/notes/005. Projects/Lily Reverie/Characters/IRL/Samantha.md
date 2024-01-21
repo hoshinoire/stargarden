@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Samantha.md","permalink":"/lily-reverie/characters/irl/samantha/","created":"2024-01-20T04:39:31.596-03:00","updated":"2024-01-20T04:56:17.146-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Samantha.md","permalink":"/lily-reverie/characters/irl/samantha/","created":"2024-01-20T04:39:31.596-03:00","updated":"2024-01-21T01:41:28.835-03:00"}
 ---
 
 
