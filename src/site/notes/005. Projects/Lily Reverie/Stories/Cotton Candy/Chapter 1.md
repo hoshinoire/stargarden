@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 1.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-1/","created":"2024-01-20T02:02:14.615-03:00","updated":"2024-01-20T04:26:47.051-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 1.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-1/","created":"2024-01-20T02:02:14.615-03:00","updated":"2024-01-21T01:41:24.885-03:00"}
 ---
 
 Written May 30, 2018
