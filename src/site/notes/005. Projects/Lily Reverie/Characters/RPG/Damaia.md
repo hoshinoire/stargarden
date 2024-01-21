@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Damaia.md","permalink":"/lily-reverie/characters/rpg/damaia/","created":"2023-06-29T02:57:07.062-03:00","updated":"2024-01-20T04:59:27.378-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Damaia.md","permalink":"/lily-reverie/characters/rpg/damaia/","created":"2023-06-29T02:57:07.062-03:00","updated":"2024-01-21T01:41:25.112-03:00"}
 ---
 
 
