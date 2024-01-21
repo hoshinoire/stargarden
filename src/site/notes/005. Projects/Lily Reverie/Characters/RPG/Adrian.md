@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Adrian.md","permalink":"/lily-reverie/characters/rpg/adrian/","created":"2023-06-29T02:56:48.670-03:00","updated":"2024-01-20T04:57:35.138-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Adrian.md","permalink":"/lily-reverie/characters/rpg/adrian/","created":"2023-06-29T02:56:48.670-03:00","updated":"2024-01-21T01:41:25.638-03:00"}
 ---
 
 
