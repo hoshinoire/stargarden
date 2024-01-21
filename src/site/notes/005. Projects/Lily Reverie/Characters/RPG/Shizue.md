@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Shizue.md","permalink":"/lily-reverie/characters/rpg/shizue/","created":"2023-06-29T02:57:35.477-03:00","updated":"2024-01-20T05:00:25.370-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/RPG/Shizue.md","permalink":"/lily-reverie/characters/rpg/shizue/","created":"2023-06-29T02:57:35.477-03:00","updated":"2024-01-21T01:41:25.226-03:00"}
 ---
 
 
