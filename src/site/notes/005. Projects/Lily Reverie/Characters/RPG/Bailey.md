@@ -6,5 +6,5 @@
 >[!info] Pending
 >Content pending, for a reason or another.
 
-[[Deanne\|Deanne]]
+[[005. Projects/Lily Reverie/Characters/RPG/Deanne\|Deanne]]
 
