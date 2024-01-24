@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Marianne.md","permalink":"/lily-reverie/characters/irl/marianne/","created":"2024-01-20T04:35:32.884-03:00","updated":"2024-01-21T01:41:29.060-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Marianne.md","permalink":"/lily-reverie/characters/irl/marianne/","created":"2024-01-22T20:49:58.043-03:00","updated":"2024-01-22T20:49:58.043-03:00"}
 ---
 
 
