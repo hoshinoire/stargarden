@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 2.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-2/","created":"2024-01-20T02:02:34.943-03:00","updated":"2024-01-21T01:41:24.793-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Cotton Candy/Chapter 2.md","permalink":"/lily-reverie/stories/cotton-candy/chapter-2/","created":"2024-01-22T20:49:58.061-03:00","updated":"2024-01-22T20:49:58.061-03:00"}
 ---
 
 Written November 8, 2018
 3 minutes read
 
 Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Medea\|Medea]], [[005. Projects/Lily Reverie/Characters/02. MG2/Thana\|Thana]]
-Characters mentioned by named: [[005. Projects/Lily Reverie/Characters/02. MG2/Dahlia\|Dahlia]], [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|Daryl]]
+Characters mentioned by named: [[005. Projects/Lily Reverie/Characters/02. MG2/Dahlia\|Dahlia]], [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|005. Projects/Lily Reverie/Characters/02. MG2/Daryl]]
 
 [[005. Projects/Lily Reverie/Stories/Cotton Candy/Chapter 1\|Chapter 1]] << Chapter 2 >> [[005. Projects/Lily Reverie/Stories/Cotton Candy/Chapter 3\|Chapter 3]]
 
