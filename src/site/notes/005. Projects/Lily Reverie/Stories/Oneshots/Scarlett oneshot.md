@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Scarlett oneshot.md","permalink":"/lily-reverie/stories/oneshots/scarlett-oneshot/","created":"2023-06-29T02:57:28.712-03:00","updated":"2024-01-21T01:41:22.918-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Scarlett oneshot.md","permalink":"/lily-reverie/stories/oneshots/scarlett-oneshot/","created":"2024-01-21T01:41:22.917-03:00","updated":"2024-01-22T20:00:55.256-03:00"}
 ---
 
 *Written 23 Jan 2022.*
 
-Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]], [[005. Projects/Lily Reverie/Characters/Other MG/Violet\|Violet]]
+Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett]], [[005. Projects/Lily Reverie/Characters/Other MG/Violet\|Violet]]
 Characters mentioned by name: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/Other MG/Claire\|Claire]], [[005. Projects/Lily Reverie/Characters/Other MG/Eleanor\|Eleanor]]
 
 ----
