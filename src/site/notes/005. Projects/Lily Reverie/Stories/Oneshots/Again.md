@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Again.md","permalink":"/lily-reverie/stories/oneshots/again/","created":"2024-01-20T03:04:24.125-03:00","updated":"2024-01-21T01:41:23.303-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Again.md","permalink":"/lily-reverie/stories/oneshots/again/","created":"2024-01-22T20:49:58.037-03:00","updated":"2024-01-22T20:49:58.037-03:00"}
 ---
 
 Written December 8, 2018
 5 minutes read
 
-Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
+Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett]]
 
 ---
 
