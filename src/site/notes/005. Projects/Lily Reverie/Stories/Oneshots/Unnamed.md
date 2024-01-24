@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Unnamed.md","permalink":"/lily-reverie/stories/oneshots/unnamed/","created":"2024-01-20T03:02:34.645-03:00","updated":"2024-01-21T01:41:22.738-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Unnamed.md","permalink":"/lily-reverie/stories/oneshots/unnamed/","created":"2024-01-22T20:49:58.180-03:00","updated":"2024-01-22T20:49:58.180-03:00"}
 ---
 
-Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
+Featured characters: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett]]
 
 ---
 
