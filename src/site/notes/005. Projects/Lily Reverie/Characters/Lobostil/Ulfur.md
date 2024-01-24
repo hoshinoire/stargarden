@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Lobostil/Ulfur.md","permalink":"/lily-reverie/characters/lobostil/ulfur/","created":"2024-01-20T04:36:41.255-03:00","updated":"2024-01-21T01:41:27.055-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/Lobostil/Ulfur.md","permalink":"/lily-reverie/characters/lobostil/ulfur/","created":"2024-01-22T20:49:57.758-03:00","updated":"2024-01-22T20:49:57.758-03:00"}
 ---
 
 
