@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Theodora.md","permalink":"/lily-reverie/characters/irl/theodora/","created":"2024-01-20T04:35:32.884-03:00","updated":"2024-01-21T01:41:28.616-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Characters/IRL/Theodora.md","permalink":"/lily-reverie/characters/irl/theodora/","created":"2024-01-22T20:49:57.713-03:00","updated":"2024-01-22T20:49:57.713-03:00"}
 ---
 
 
