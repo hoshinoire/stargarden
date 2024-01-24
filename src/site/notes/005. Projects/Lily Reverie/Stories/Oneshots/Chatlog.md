@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Chatlog.md","permalink":"/lily-reverie/stories/oneshots/chatlog/","created":"2024-01-20T03:03:36.928-03:00","updated":"2024-01-21T01:41:23.176-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Oneshots/Chatlog.md","permalink":"/lily-reverie/stories/oneshots/chatlog/","created":"2024-01-22T20:49:57.731-03:00","updated":"2024-01-22T20:49:57.731-03:00"}
 ---
 
 Ori: Hey, Mae
