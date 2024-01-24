@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 5.md","permalink":"/lily-reverie/stories/umay/chapter-5/","created":"2024-01-20T02:04:51.670-03:00","updated":"2024-01-21T01:41:21.872-03:00"}
+{"dg-publish":true,"dg-path":"Lily Reverie/Stories/Umay/Chapter 5.md","permalink":"/lily-reverie/stories/umay/chapter-5/","created":"2024-01-22T20:49:58.158-03:00","updated":"2024-01-22T20:49:58.158-03:00"}
 ---
 
 Written July 3, 2019
@@ -7,8 +7,8 @@ Written July 3, 2019
 >[!error] Warning
 > Azure's characterization is VERY outdated here!
 
-Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|Daryl]], [[005. Projects/Lily Reverie/Characters/02. MG2/Konin\|Konin]]
-Characters mentioned: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|Scarlett]]
+Featured characters: [[005. Projects/Lily Reverie/Characters/02. MG2/Daryl\|005. Projects/Lily Reverie/Characters/02. MG2/Daryl]], [[005. Projects/Lily Reverie/Characters/02. MG2/Konin\|Konin]]
+Characters mentioned: [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Azure\|Azure]], [[005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett\|005. Projects/Lily Reverie/Characters/01. MG1 - Main Cast/Scarlett]]
 
 [[005. Projects/Lily Reverie/Stories/Umay/Chapter 4\|Chapter 4]] << Chapter 5 >> Chapter 6
 
