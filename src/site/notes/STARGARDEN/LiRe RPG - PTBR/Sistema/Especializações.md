@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/","created":"2025-01-11T01:21:14.540-03:00","updated":"2025-01-12T02:32:03.746-03:00"}
+---
+
+
+# Sobre as especializações (specs)
+
+No momento em que escrevo, estou com preguiça de definir direito, mas é algo como, dentro de um stat ou atributo específico do seu personagem, ele se especializar em algum aspecto dele. Por exemplo, um personagem com sabedoria entender melhor de sabedoria teórica. Na prática, isso significa que, os pontos que você tiver em algum stat específico podem ser utilizados para “comprar” uma especialização ou melhorá-la. As especializações existem apenas para os stats principais. São necessários 2 pontos do stat correspondente para comprar cada 1 ponto de spec. Exemplo: supondo a spec de Alquímia, um jogador com +3 em Sabedoria pode usar 2pt (de 3pt) de Sabedoria para comprar 1pt de Alquímia. No caso de specs cujos pontos podem ser comprados por múltiplos stats, esses 2 pontos por compra ainda precisam vir inteiramente de um stat só. Mais concretamente, supondo novamente a spec de Alquímia, por exemplo, não é possível comprar 1pt de Alquímia usando 1pt de Destreza e 1pt de Sabedoria: usando esses stats só será válido comprar usando 2pt de Sabedoria OU 2pt de Destreza. A justificativa para isso é que, conforme descrito abaixo, é atribuído maior peso para a narrativa. Sendo assim, de qual característica do personagem (ou seja, stat) exata surgiu determinada spec influencia como ela se apresentará. Corolariamente, deve-se colocar na ficha do personagem qual stat comprou cada ponto de spec. Recomenda-se não se preocupar muito ao escolhê-las: particularmente, pretendo tratá-las ou de maneira mais passiva ou sem fazer checks, ou seja, narrativamente. Em caso de rolagem, elas adicionam apenas um bônus (ainda a ser decidido) na rolagem usual de um stat para uma ação relevante à spec; por exemplo, num momento relevante à spec de Alquímia, o roll primário ainda será feito com base em qual stat for relevante no momento. Minha indicação pessoal é pensar nelas mais como um complemento à descrição do seu personagem ou um apoio para a criação deles, em vez de em termos de gameplay. Se quiser deixar algo como uma anotação a respeito de uma spec que planeja comprar depois, que combina com o personagem apesar de não ter comprado etc, sinta-se livre. Assim como com stats, você pode escolher guardar seus pontos e utilizá-los só depois. Neste caso, deixe marcado sempre quantos você ainda tem.
+
+---
+
+# Especializações que podem vir de múltiplos stats
+
+Como dito anteriormente, qual stat originou certa especialização pode afetar como ele se apresenta. Não vou diferenciar todas aqui, mas exemplificar.
+
+Observação (PER, INT): No caso de uma observação voltada à percepção, trata-se do tradicional, de fato. Porém, no caso da observação originar-se do INT, pode ser pensada como algo assim: "An experienced commander looking down on a battlefield will see more than blood and chaos. A true strategist will see opportunities, weaknesses, and—above all—the guiding hand of the opposing general."
+
+Networking (WIS, CHA): Quando o networking vem do carisma, o personagem de fato conheceu aquelas pessoas. Quando o networking vem de sabedoria, o personagem conhece as pessoas de maneira indireta: leu em algum livro, ouviu por aí, etc.
+
+Persuasão (INFL, WILL): Diferenciei ambas na descrição em si, mas de qualquer maneira: uma persuasão que vem da influência pode ser questão apenas de lábia. Uma persuasão que vem da força de vontade vem do fato que justamente essa força de vontade torna alguém mais convincente (ou teimoso demais).
+
+Presença (CHA, WILL): A presença (CHA blend) é o que mais se esperaria: você chama a atenção por ser carismático, o tipo de pessoa popular. A presença (WILL), por sua vez, é mais algo como você ter uma personalidade tão forte que sua presença sempre é sentida... e se você não for carismático, isso não significa que você será popular. O que nem sempre é algo ruim.
+
+Alquimia (DEX, WIS, INT): Resumidamente, DEX significaria que você tem mais experiência prática na coisa; WIS significaria que você conhece a respeito de alquimia, alguas receitas, etc; INT significaria alguma intuição para a coisa. Em geral, quase toda spec em que uma das origens possíveis é sabedoria, provavelmente é pela diferença entre algo na prática vs. conhecer a respeito ou ter ouvido falar sobre.
+
+Creio que seja um bom momento também para enfatizar que specs, além de serem muito menos certeiras que stunts, são apenas pontos bônus. Portanto, pode-se ter uma situação como, por exemplo, ao fazer-se uma poção o roll pedido é de destreza; sua destreza é ruim e você tem spec em alquimia: o roll ainda será de destreza, e talvez a spec não salve sua barra. Um outro exemplo é alguém usar a spec de monitoramento para stalkear alguém, e essa parte funcionou bem, entretanto, os resultados ainda foram negativos pois foi pedido um roll de agilidade para que não ele fosse detectado, sendo que agilidade era um stat baixo para o indivíduo e o bônus não salvou.
+
+---
+
+# Overlap de stunts e especializações
+
+Há um certo overlap entre [[STARGARDEN/LiRe RPG - PTBR/Sistema/Conceitos de FATE/Stunts\|Stunts]] e especializações, o que pode fazer com que pareçam redundantes. Deixando de lado o quanto isso é verdade ou não, os dois diferenciam-se aqui pelo fato que especialização tem muito mais ênfase narrativo e não tem o poderio que um stunt possui. Além disso, os stunts, são muito mais certeiros. Em contrapartida, porém, as especializações são mais abrangentes e podem aparecer bem mais na caracterização do personagem e durante as sessões em geral. Adicionalmente, muitas das especializações definidas aqui são em outros sistema (ainda na base de Fate) stunts. Então, de certa forma as especializações podem ser tratadas como sugestões de stunts, ou mesmo como algum trial. Como analogia, pode ser algo como a diferença entre um hobbyist e um _profissional_ (com SFX e sparkles). Postulo, então, que ninguém perceba que na verdade eu não percebi que fiz algo redundante e agora estou arrumando meu desleixo: intenciona-se que stunts e specs possam ser complementares, embora não seja obrigatório.

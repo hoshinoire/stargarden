@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/teletransporte/","created":"2025-01-12T02:11:51.506-03:00","updated":"2025-01-12T02:31:38.704-03:00"}
+---
+
+
+Em [[STARGARDEN/LiRe RPG - PTBR/Universo/Tartary\|STARGARDEN/LiRe RPG - PTBR/Universo/Tartary]], embora não necessariamente o mais rápido, o método mais seguro e também mais utilizado para viajar de uma área para outra é o teleporte. Teleporte em Tartary funciona da seguinte maneira: em certos pontos das cidades que possuem estrutura para isso pode-se entrar a bordo de alguma airship especialmente equipada para realizar esse tipo de função. Essa airship locomoverá-se para entrar em um portal projetado por cristais mágicos específicos para isso, e, ao entrar no portal, todos na airship passam a encontrar-se dentro de alguma [[Wonderland\|Wonderland]], normalmente uma área espaçosa com muito céu aberto nesse tipo de caso. Será feita uma travessia por aquela Wonderland então até ser atingida a destinação desejada, um outro portal, por onde se sairá da Wonderland e então a airship irá se encontrar na área objetivada, em seguida deixando a tripulação no porto.

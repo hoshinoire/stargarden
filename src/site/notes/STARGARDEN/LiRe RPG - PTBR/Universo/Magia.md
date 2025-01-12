@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/magia/","created":"2025-01-12T02:11:42.758-03:00","updated":"2025-01-12T02:31:17.689-03:00"}
+---
+
+
+Todos nascem com alguma habilidade mágica, porém são poucos os que nascem com uma aptidão já bastante alta para magia, para a maioria sendo, então, necessário treinar e praticar para melhor a própria aptidão mágica, ao menos inicialmente. Cada um nasce com uma afinidade elemental específica, ou seja, o tipo elemental mais favorecido pelo próprio corpo. Essa afinidade é fixa e não pode ser mudada ao longo da vida. Entretanto, a pessoa ainda pode fazer uso de outros tipos elementais (e também costuma ter variados graus de afinidade com cada um), mesmo que com mais dificuldade, cansaço e/ou não conseguir chegar a níveis um pouco mais altos de feitiçaria naquele elemento. Há grande oscilação a respeito do quanto isso acontece e para alguns sequer é o caso, mas as afinidades elementais de uma pessoa podem influenciar levemente sua biologia e/ou personalidade.
