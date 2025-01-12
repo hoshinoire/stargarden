@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"LiRPG/Index RPG.md","permalink":"/li-rpg/index-rpg/","created":"2025-01-11T01:39:15.607-03:00","updated":"2025-01-12T02:30:12.073-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Index RPG.md","permalink":"/li-rpg/index-rpg/","created":"2025-01-11T01:39:15.607-03:00","updated":"2025-01-12T03:13:57.576-03:00"}
 ---
 
 
@@ -48,14 +48,14 @@
 		4. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Conceitos de FATE/Utilização dos Aspects\|Utilização dos Aspects]]
 			1. Invoke
 			2. Compel
-	4. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Especializações\|STARGARDEN/LiRe RPG - PTBR/Sistema/Especializações]]
+	4. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Especializações\|Especializações]]
 		1. Sobre as especializações (specs)
 		2. Especializações que podem vir de múltiplos stats
 		3. Overlap de stunts e especializações
 	5. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Ficha em branco\|Ficha em branco]]
    
-3. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/All stats\|All stats]]
-	1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades Elementais\|STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades Elementais]]
+3. All stats
+	1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades Elementais\|Afinidades Elementais]]
 		1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Água\|Água]]
 		2. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Ar\|Ar]]
 		3. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Eletricidade\|Eletricidade]]
@@ -67,19 +67,19 @@
 		9. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Radioativa\|Radioativa]] (neutra)
 		10. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Espectral\|Espectral]] (magia negra)
 		11. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Anímica\|Anímica]] (magia branca)
-	2. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens\|STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens]]
+	2. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens\|Abordagens]]
 		1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens/Careful\|Careful]]
 		2. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens/Flashy\|Flashy]]
 		3. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens/Quick\|Quick]]
 		4. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens/Clever\|Clever]]
 		5. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens/Forceful\|Forceful]]
 		6. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Abordagens/Sneaky\|Sneaky]]
-	3. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Relações\|STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Relações]]
+	3. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Relações\|Relações]]
 		1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Relações/Leading\|Leading]]
 		2. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Relações/Partnering\|Partnering]]
 		3. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Relações/Supporting\|Supporting]]
 		4. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Relações/Solo\|Solo]]
-	4. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais\|STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais]]
+	4. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais\|Stats principais]]
 		1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais/Força\|Força]]
 		2. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais/Defesa\|Defesa]]
 		3. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais/Vitalidade\|Vitalidade]]
