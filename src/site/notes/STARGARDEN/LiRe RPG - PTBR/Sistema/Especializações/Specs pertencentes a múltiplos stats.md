@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/specs-pertencentes-a-multiplos-stats/","created":"2025-01-11T01:38:52.541-03:00","updated":"2025-01-12T02:33:56.659-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Specs pertencentes a múltiplos stats.md","permalink":"/li-rpg/sistema/especializacoes/specs-pertencentes-a-multiplos-stats/","created":"2025-01-11T01:38:52.541-03:00","updated":"2025-01-12T02:33:56.659-03:00"}
 ---
 
 

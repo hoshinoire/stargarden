@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/wonderlands/","created":"2025-01-12T02:11:27.108-03:00","updated":"2025-01-12T02:31:45.901-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Universo/Wonderlands.md","permalink":"/li-rpg/universo/wonderlands/","created":"2025-01-12T02:11:27.108-03:00","updated":"2025-01-12T02:31:45.901-03:00"}
 ---
 
 

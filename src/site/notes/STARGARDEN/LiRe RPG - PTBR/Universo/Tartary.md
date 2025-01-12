@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/tartary/","created":"2025-01-10T21:49:24.917-03:00","updated":"2025-01-12T02:31:37.695-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Universo/Tartary.md","permalink":"/li-rpg/universo/tartary/","created":"2025-01-10T21:49:24.917-03:00","updated":"2025-01-12T02:31:37.695-03:00"}
 ---
 
 

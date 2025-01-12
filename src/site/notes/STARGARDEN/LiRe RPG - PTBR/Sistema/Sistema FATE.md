@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/sistema-fate/","created":"2025-01-10T21:54:41.156-03:00","updated":"2025-01-12T02:31:56.011-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Sistema FATE.md","permalink":"/li-rpg/sistema/sistema-fate/","created":"2025-01-10T21:54:41.156-03:00","updated":"2025-01-12T02:31:56.011-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/conceitos-de-fate/aspects/","created":"2025-01-12T01:41:53.023-03:00","updated":"2025-01-12T02:35:57.014-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Conceitos de FATE/Aspects.md","permalink":"/li-rpg/sistema/conceitos-de-fate/aspects/","created":"2025-01-12T01:41:53.023-03:00","updated":"2025-01-12T02:35:57.014-03:00"}
 ---
 
 

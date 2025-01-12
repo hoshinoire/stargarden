@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/sistema-geral/","created":"2025-01-10T21:53:55.917-03:00","updated":"2025-01-12T02:31:54.243-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Sistema geral.md","permalink":"/li-rpg/sistema/sistema-geral/","created":"2025-01-10T21:53:55.917-03:00","updated":"2025-01-12T02:31:54.243-03:00"}
 ---
 
 

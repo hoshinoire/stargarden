@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/dump-aleatorio/","created":"2025-01-11T22:37:15.091-03:00","updated":"2025-01-12T02:32:06.225-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Dump aleatório.md","permalink":"/li-rpg/sistema/dump-aleatorio/","created":"2025-01-11T22:37:15.091-03:00","updated":"2025-01-12T02:32:06.225-03:00"}
 ---
 
 

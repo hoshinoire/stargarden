@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/","created":"2025-01-11T01:21:14.540-03:00","updated":"2025-01-12T02:32:03.746-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações.md","permalink":"/li-rpg/sistema/especializacoes/","created":"2025-01-11T01:21:14.540-03:00","updated":"2025-01-12T02:32:03.746-03:00"}
 ---
 
 

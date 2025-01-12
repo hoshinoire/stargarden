@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/patronos-elementais/","created":"2025-01-12T02:13:09.416-03:00","updated":"2025-01-12T02:31:27.626-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Universo/Patronos Elementais.md","permalink":"/li-rpg/universo/patronos-elementais/","created":"2025-01-12T02:13:09.416-03:00","updated":"2025-01-12T02:31:27.626-03:00"}
 ---
 
 

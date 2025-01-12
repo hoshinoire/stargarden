@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/relacoes/","created":"2025-01-11T01:23:47.543-03:00","updated":"2025-01-12T02:32:30.818-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Stats/Relações.md","permalink":"/li-rpg/sistema/stats/relacoes/","created":"2025-01-11T01:23:47.543-03:00","updated":"2025-01-12T02:32:30.818-03:00"}
 ---
 
 

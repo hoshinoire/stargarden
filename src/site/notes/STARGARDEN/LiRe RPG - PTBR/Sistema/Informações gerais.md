@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/informacoes-gerais/","created":"2025-01-10T21:55:23.969-03:00","updated":"2025-01-12T02:31:59.167-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Informações gerais.md","permalink":"/li-rpg/sistema/informacoes-gerais/","created":"2025-01-10T21:55:23.969-03:00","updated":"2025-01-12T02:31:59.167-03:00"}
 ---
 
 

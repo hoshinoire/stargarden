@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/specs-exclusivas-a-um-stat-apenas/","created":"2025-01-11T01:38:08.412-03:00","updated":"2025-01-12T02:33:55.613-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Specs exclusivas a um stat apenas.md","permalink":"/li-rpg/sistema/especializacoes/specs-exclusivas-a-um-stat-apenas/","created":"2025-01-11T01:38:08.412-03:00","updated":"2025-01-12T02:33:55.613-03:00"}
 ---
 
 

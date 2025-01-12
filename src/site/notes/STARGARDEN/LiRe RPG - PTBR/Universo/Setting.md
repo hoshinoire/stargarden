@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/setting/","created":"2025-01-10T21:50:16.229-03:00","updated":"2025-01-12T02:31:35.825-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Universo/Setting.md","permalink":"/li-rpg/universo/setting/","created":"2025-01-10T21:50:16.229-03:00","updated":"2025-01-12T02:31:35.825-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/ficha-em-branco/","created":"2025-01-10T21:52:10.679-03:00","updated":"2025-01-12T02:32:00.224-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Ficha em branco.md","permalink":"/li-rpg/sistema/ficha-em-branco/","created":"2025-01-10T21:52:10.679-03:00","updated":"2025-01-12T02:32:00.224-03:00"}
 ---
 
 

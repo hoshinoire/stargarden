@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/conceitos-de-fate/stunts/","created":"2025-01-12T01:41:42.951-03:00","updated":"2025-01-12T02:36:02.276-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Conceitos de FATE/Stunts.md","permalink":"/li-rpg/sistema/conceitos-de-fate/stunts/","created":"2025-01-12T01:41:42.951-03:00","updated":"2025-01-12T02:36:02.276-03:00"}
 ---
 
 

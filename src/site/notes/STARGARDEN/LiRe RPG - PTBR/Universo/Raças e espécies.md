@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/racas-e-especies/","created":"2025-01-10T21:51:09.522-03:00","updated":"2025-01-12T02:31:32.835-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Universo/Raças e espécies.md","permalink":"/li-rpg/universo/racas-e-especies/","created":"2025-01-10T21:51:09.522-03:00","updated":"2025-01-12T02:31:32.835-03:00"}
 ---
 
 

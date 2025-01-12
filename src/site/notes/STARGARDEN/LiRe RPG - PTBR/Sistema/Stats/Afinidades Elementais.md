@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/afinidades-elementais/","created":"2025-01-10T21:56:08.766-03:00","updated":"2025-01-12T02:32:33.729-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Stats/Afinidades Elementais.md","permalink":"/li-rpg/sistema/stats/afinidades-elementais/","created":"2025-01-10T21:56:08.766-03:00","updated":"2025-01-12T02:32:33.729-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/conceitos-de-fate/utilizacao-dos-aspects/","created":"2025-01-12T01:43:35.529-03:00","updated":"2025-01-12T02:36:03.276-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Conceitos de FATE/Utilização dos Aspects.md","permalink":"/li-rpg/sistema/conceitos-de-fate/utilizacao-dos-aspects/","created":"2025-01-12T01:43:35.529-03:00","updated":"2025-01-12T02:36:03.276-03:00"}
 ---
 
 

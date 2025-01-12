@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/index-rpg/","created":"2025-01-11T01:39:15.607-03:00","updated":"2025-01-12T02:30:12.073-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Index RPG.md","permalink":"/li-rpg/index-rpg/","created":"2025-01-11T01:39:15.607-03:00","updated":"2025-01-12T02:30:12.073-03:00"}
 ---
 
 

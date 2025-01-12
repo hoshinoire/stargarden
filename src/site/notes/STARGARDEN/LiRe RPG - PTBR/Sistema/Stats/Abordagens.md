@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/abordagens/","created":"2025-01-11T01:22:23.232-03:00","updated":"2025-01-12T02:32:34.615-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Stats/Abordagens.md","permalink":"/li-rpg/sistema/stats/abordagens/","created":"2025-01-11T01:22:23.232-03:00","updated":"2025-01-12T02:32:34.615-03:00"}
 ---
 
 

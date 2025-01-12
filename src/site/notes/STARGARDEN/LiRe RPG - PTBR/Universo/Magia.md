@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/magia/","created":"2025-01-12T02:11:42.758-03:00","updated":"2025-01-12T02:31:17.689-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Universo/Magia.md","permalink":"/li-rpg/universo/magia/","created":"2025-01-12T02:11:42.758-03:00","updated":"2025-01-12T02:31:17.689-03:00"}
 ---
 
 

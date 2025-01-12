@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/universo/teletransporte/","created":"2025-01-12T02:11:51.506-03:00","updated":"2025-01-12T02:31:38.704-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Universo/Teletransporte.md","permalink":"/li-rpg/universo/teletransporte/","created":"2025-01-12T02:11:51.506-03:00","updated":"2025-01-12T02:31:38.704-03:00"}
 ---
 
 
