@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/afinidades-elementais/animica/","created":"2025-01-11T01:27:25.606-03:00","updated":"2025-01-12T02:32:57.936-03:00"}
+---
+
+
+Vulgarmente denominada de “magia branca”. Magia boa, supostamente "do bem". É a afinidade que dá maior acesso a magias de cura, com quase todo healer nato tendo essa afinidade, embora existam healers que usam magia negra e alguns raros que usam magia nuclear para isso, ou que não têm nenhuma desses três afinidades mas de alguma maneira conseguiu virar healer. Adendo mais recente, pois não estou afim de reescrever: essa afinidade elemental relaciona-se muito a crenças e a fé, não em um sentido religioso (embora possa ser), mas sim em um sentido mais abrangente, podendo ser a crença do indivíduo em um ideal, em si mesmo, e assim vai. Também não é tão especificamente sobre healing, ou suporte, quanto a descrição antiga fez soar. Em geral, as afinidades Radioativa, Espectral e Anímica costumam ser versáteis e estar manipulando magia da sua maneira mais pura em vez de algum elemento em específico, diferenciando-se mais pela origem e essa origem afetando a magia sendo efetuada.

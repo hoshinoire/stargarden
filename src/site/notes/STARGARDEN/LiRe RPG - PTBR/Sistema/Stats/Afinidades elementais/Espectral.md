@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/afinidades-elementais/espectral/","created":"2025-01-11T01:27:25.606-03:00","updated":"2025-01-12T02:32:59.498-03:00"}
+---
+
+
+Vulgarmente denominada de “magia negra”. Bom, essa você já sabe e não há detalhes, side effects ou twists nesse que sejam fora do normal. Talvez o único detalhe é que talvez o estigma contra esse tipo de afinidade não seja TÃO grande quanto esperado. Side effects no geral são ignoráveis e/ou temporários, só com spells muito poderosos ou de coisas como ressurreição que são mais ferrados. De resto, pode diminuir sua sorte no dia, te deixar cego temporariamente, algumas magias de cura extraem do seu HP para poderem curar, e assim vai. Obviamente, como há um drawback, a potência também costuma ser mais forte para valer à pena. Seres de afinidade espectral ou que usam muita magia negra regularmente passam por um processo de "limpeza" para não se corromperem (algo que é fisicamente notável). Adendo mais recente, pois não estou afim de reescrever: essa afinidade elemental relaciona-se muito a sentimentos negativos, com os mais poderosos usuários desta afinidade sendo ou pessoas com histórias trágicas, porém um admirável controle de suas emoções, ou completos desequilibrados.

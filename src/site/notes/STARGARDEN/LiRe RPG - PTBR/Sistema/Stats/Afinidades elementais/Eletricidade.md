@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/afinidades-elementais/eletricidade/","created":"2025-01-11T01:27:25.606-03:00","updated":"2025-01-12T02:32:58.890-03:00"}
+---
+
+
+Você sabe. É uma pena que o setting é relativamente medieval~steampunk então você não vai conseguir ser o carregador de celulares ambulante, mas alguma coisa ou outra já está surgindo, então não se preocupe. Personagens com essa afinidade são frequentemente mais agitados, hiperativos e mais rápidos (in-universe isso teoricamente dá AGI, sim, mas não integrei esse tipo de coisa no sistema). Normalmente têm certo gosto por eletricidade, sendo que levar um choque pode caracterizar algo prazeroso (eu vou rir se for uma linha ou outra, mas não faça ERP do seu personagem levando choque, por favor), e são capazes de detectar eletricidade. Isso inclui eletricidade gerada por contração muscular ou merda do tipo, tendo PER suficientemente alto, então com a classe certa já dá pra imaginar o quanto podem ser OP.

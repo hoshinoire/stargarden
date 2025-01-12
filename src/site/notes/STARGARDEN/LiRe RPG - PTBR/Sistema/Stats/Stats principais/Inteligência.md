@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/stats-principais/inteligencia/","created":"2025-01-11T01:29:05.228-03:00","updated":"2025-01-12T02:33:32.934-03:00"}
+---
+
+
+Inteligência aqui aborda tanto a capacidade cognitiva quanto uma aptidão para magia, embora não necessariamente ambos ao mesmo tempo. Foi encontrada uma correlação entre inteligência e maior predisposição à magia, ou apenas aptidão considerando como muitos praticam para melhorar essa aptidão. É apenas uma correlação, porém, então não é raro que os mesmos neurônios poderosos que deram uma maior adaptabilidade mágica sejam completamente inúteis em termos de dar qualquer ponto de QI para a pessoa. O contrário também pode ser verdadeiro, mas é mais engraçado zoar burros. …que foi, nunca viu um mago burro? Pois saiba que existe até mago burro gay. Sendo assim, não é necessário algum dilema a respeito de fazer seu personagem burro ter INT alta. E nem para o contrário, você pode, sim, fazer um personagem muito inteligente que entretanto tem uma INT baixa.

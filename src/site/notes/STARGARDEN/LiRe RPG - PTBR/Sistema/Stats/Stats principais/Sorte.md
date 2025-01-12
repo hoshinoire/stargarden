@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/stats-principais/sorte/","created":"2025-01-11T01:29:05.228-03:00","updated":"2025-01-12T02:33:37.090-03:00"}
+---
+
+
+…Você sabe. Além do óbvio tipo de situação em que seria inerentemente um roll de Sorte, esse stat tem algumas particularidades. A partir de +1 pontos, o jogador pode solicitar, 1x por sessão, que algum roll de outro stat seja substituído por um roll de sorte. A quantidade de vezes que isso poderá ser solicitado por sessão é acrescentada em 1x, portanto, no seguinte tipo de sequência: 1x (LUCK +1), 2x (LUCK +2), 3x (LUCK +4), 4x (LUCK +6), 5x (LUCK +8) […]. Além disso, a partir de +3 pontos, o jogador pode solicitar, 1x por sessão, um “bônus de crítico”, em que em vez de Sorte substituir, o resultado do roll irá somar-se. A quantidade de vezes que isso poderá ser solicitado por sessão é acrescentada em 1x nas seguintes pontuações: 1x (LUCK +3), 2x (LUCK +7), 3x (LUCK +9), 4x (LUCK +13) […penso em outros conforme relevância…].
