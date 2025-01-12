@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/stats-principais/influencia/","created":"2025-01-12T00:59:02.958-03:00","updated":"2025-01-12T02:33:31.438-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Stats/Stats principais/Influência.md","permalink":"/li-rpg/sistema/stats/stats-principais/influencia/","created":"2025-01-12T00:59:02.958-03:00","updated":"2025-01-12T02:33:31.438-03:00"}
 ---
 
 

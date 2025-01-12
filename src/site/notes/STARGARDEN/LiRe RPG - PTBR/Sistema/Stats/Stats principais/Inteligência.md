@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/stats-principais/inteligencia/","created":"2025-01-11T01:29:05.228-03:00","updated":"2025-01-12T02:33:32.934-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Stats/Stats principais/Inteligência.md","permalink":"/li-rpg/sistema/stats/stats-principais/inteligencia/","created":"2025-01-11T01:29:05.228-03:00","updated":"2025-01-12T02:33:32.934-03:00"}
 ---
 
 

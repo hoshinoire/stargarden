@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/stats/afinidades-elementais/fogo/","created":"2025-01-11T01:27:25.606-03:00","updated":"2025-01-12T02:33:00.576-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Stats/Afinidades elementais/Fogo.md","permalink":"/li-rpg/sistema/stats/afinidades-elementais/fogo/","created":"2025-01-11T01:27:25.606-03:00","updated":"2025-01-12T02:33:00.576-03:00"}
 ---
 
 
