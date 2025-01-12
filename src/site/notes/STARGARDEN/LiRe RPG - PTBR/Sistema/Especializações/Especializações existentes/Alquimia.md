@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/especializacoes-existentes/alquimia/","created":"2025-01-11T22:49:55.493-03:00","updated":"2025-01-12T02:34:05.860-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Especializações existentes/Alquimia.md","permalink":"/li-rpg/sistema/especializacoes/especializacoes-existentes/alquimia/","created":"2025-01-11T22:49:55.493-03:00","updated":"2025-01-12T02:34:05.860-03:00"}
 ---
 
 

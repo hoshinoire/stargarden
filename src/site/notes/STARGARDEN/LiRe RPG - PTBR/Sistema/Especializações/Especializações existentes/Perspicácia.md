@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/especializacoes-existentes/perspicacia/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:34:53.937-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Especializações existentes/Perspicácia.md","permalink":"/li-rpg/sistema/especializacoes/especializacoes-existentes/perspicacia/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:34:53.937-03:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/especializacoes-existentes/resistencia/","created":"2025-01-11T22:44:49.514-03:00","updated":"2025-01-12T02:35:03.898-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Especializações existentes/Resistência.md","permalink":"/li-rpg/sistema/especializacoes/especializacoes-existentes/resistencia/","created":"2025-01-11T22:44:49.514-03:00","updated":"2025-01-12T02:35:03.898-03:00"}
 ---
 
 

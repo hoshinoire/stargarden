@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/especializacoes-existentes/regeneracao-efeitos-fisicos/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:35:01.337-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Especializações existentes/Regeneração (efeitos físicos).md","permalink":"/li-rpg/sistema/especializacoes/especializacoes-existentes/regeneracao-efeitos-fisicos/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:35:01.337-03:00"}
 ---
 
 

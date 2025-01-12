@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/especializacoes-existentes/cinesica/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:34:22.765-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Especializações existentes/Cinésica.md","permalink":"/li-rpg/sistema/especializacoes/especializacoes-existentes/cinesica/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:34:22.765-03:00"}
 ---
 
 

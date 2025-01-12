@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stargarden/li-re-rpg-ptbr/sistema/especializacoes/especializacoes-existentes/sintonia/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:35:09.411-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Sistema/Especializações/Especializações existentes/Sintonia.md","permalink":"/li-rpg/sistema/especializacoes/especializacoes-existentes/sintonia/","created":"2025-01-11T01:32:05.513-03:00","updated":"2025-01-12T02:35:09.411-03:00"}
 ---
 
 
