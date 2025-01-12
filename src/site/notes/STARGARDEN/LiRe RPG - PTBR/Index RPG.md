@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"LiRPG/Index RPG.md","permalink":"/li-rpg/index-rpg/","created":"2025-01-11T01:39:15.607-03:00","updated":"2025-01-12T03:13:57.576-03:00"}
+{"dg-publish":true,"dg-path":"LiRPG/Index RPG.md","permalink":"/li-rpg/index-rpg/","created":"2025-01-11T01:39:15.607-03:00","updated":"2025-01-12T03:18:49.718-03:00"}
 ---
 
 
@@ -54,7 +54,7 @@
 		3. Overlap de stunts e especializações
 	5. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Ficha em branco\|Ficha em branco]]
    
-3. All stats
+3. Stats
 	1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades Elementais\|Afinidades Elementais]]
 		1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Água\|Água]]
 		2. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Afinidades elementais/Ar\|Ar]]
@@ -93,7 +93,7 @@
 		11. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais/Percepção\|Percepção]]
 		12. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Stats/Stats principais/Sorte\|Sorte]]
 
-1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Especializações/Specs\|Specs]]
+1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Especializações\|Especializações]]
 	1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Especializações/Specs exclusivas a um stat apenas\|Specs exclusivas a um stat apenas]]
 		1. Força
 			1. [[STARGARDEN/LiRe RPG - PTBR/Sistema/Especializações/Especializações existentes/Armas brancas\|Armas brancas]]
